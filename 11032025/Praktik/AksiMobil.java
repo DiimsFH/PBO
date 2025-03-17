@@ -30,10 +30,10 @@ public class AksiMobil {
         System.out.println();
         
         Mobil mobilku2 = new Mobil();
-        mobilku2.merk = "McLaren";
-        mobilku2.plat = "Bh 6677 DI";
-        mobilku2.tahun = 1997;
-        mobilku2.warna = "Jingga";
+        mobilku2.merk = "Koenisegg Jesko";
+        mobilku2.plat = "BP 1234 ZZZ";
+        mobilku2.tahun = 2022;
+        mobilku2.warna = "BLACK CARBON";
                 
         System.out.println("Data mobil 2");
         System.out.println("Merk mobil = " + mobilku2.merk);
