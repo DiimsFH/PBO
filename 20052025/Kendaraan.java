@@ -3,11 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package UTS2401082013;
+package UTS2401083004;
 
 /**
  *
- * @author akels
+ * @author Dimas Sigma
+ * 26 - May - 2025
  */
 public class Kendaraan {
     protected int jmlRoda;
